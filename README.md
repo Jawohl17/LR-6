@@ -147,3 +147,6 @@ A free Android application that supports a broad range of archive formats, inclu
 iZip:
 
 An iOS application that allows users to create and manage ZIP files, offering functionalities for viewing and extracting files from archives.
+
+###  Conclusions
+In this lab, we explored the processes of compression and archiving, highlighting their distinct purposes and techniques. Compression aims to reduce file sizes, utilizing methods such as lossy and lossless compression, while archiving focuses on bundling multiple files for easier management. We examined various software tools available for compression and archiving in Linux, including gzip, bzip2, xz, and 7zip, each with its own strengths. Additionally, we compared the performance of different compression algorithms, noting that xz offers the highest compression ratio, while gzip is the fastest. Finally, we identified mobile applications like WinZip and RAR that facilitate file compression and extraction on mobile devices
